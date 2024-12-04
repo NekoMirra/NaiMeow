@@ -1,6 +1,7 @@
-# NaiMeow
-> NaiMeow - BirthDate -2024.12.4 23:20
-## 全场景/主被动感知/多模态/计算机控制智能AI助理
+# <p align="center"> ✨NaiMeow</p>
+## <p align="center"> 全场景/主被动感知/多模态/计算机控制智能AI助理</p>
+> <p align="center"> NaiMeow - BirthDate -2024.12.4 23:20</p>
+
 
 > If I can make you happy
 
