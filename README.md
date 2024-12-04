@@ -1,7 +1,7 @@
 # NaiMeow
 > NaiMeow - BirthDate -2024.12.4 23:20
 
-NaiMeow，全场景/主被动感知/多模态智能形态个人AI助理-数字生命实验品α-
+# NaiMeow，全场景/主被动感知/多模态智能形态个人AI助理-数字生命实验品α-
 
 > If I can make you happy
 
