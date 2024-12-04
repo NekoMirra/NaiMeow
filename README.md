@@ -14,17 +14,17 @@
 # Todo List
 - [x] 新建文件夹
 
-- [ ] GUI
+- [ ] GUI -图形界面
 
-- [ ] Voice wake-up capability
+- [ ] Voice Wake-up Capability　-　语言唤醒支持
 
-- [ ] Basic Model Calling Capabilities
+- [ ] Basic Model Calling Capabilities　-　基本模型调用能力
 
-- [ ] multimodal compatibility layer
+- [ ] Multimodal Compatibility Layer　- 多模态兼容层
 
-- [ ] ✨Computer Use
+- [ ] ✨Computer Use - 计算机控制
 
-- [ ] ✨Active cognition
+- [ ] ✨Active Cognition - 主动感知
 
 - [ ] ........
 
@@ -35,5 +35,5 @@
   
 - Chatts [https://github.com/2noise/ChatTTS]
 # Discussion
-- [x] Telegram Channel[https://t.me/NaiMeow_DIMENSION]
+- [x] Telegram Channel [https://t.me/NaiMeow_DIMENSION]
 - [ ] Discard Server
