@@ -1,6 +1,6 @@
 # NaiMeow
 > NaiMeow - BirthDate -2024.12.4 23:20
-全场景/主被动感知/多模态/计算机控制智能AI助理
+## 全场景/主被动感知/多模态/计算机控制智能AI助理
 
 > If I can make you happy
 
@@ -29,11 +29,11 @@
 - [ ] ........
 
 # References
-- open-interpreter[https://github.com/OpenInterpreter/open-interpreter]
+- Open-Interpreter [https://github.com/OpenInterpreter/open-interpreter]
   
-- ProactiveAgent[https://github.com/thunlp/ProactiveAgent]
+- ProactiveAgent [https://github.com/thunlp/ProactiveAgent]
   
-- Chatts[https://github.com/2noise/ChatTTS]
+- Chatts [https://github.com/2noise/ChatTTS]
 # Discussion
 - [x] Telegram Channel[https://t.me/NaiMeow_DIMENSION]
 - [ ] Discard Server
