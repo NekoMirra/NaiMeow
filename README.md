@@ -39,9 +39,7 @@ NaiMeow将参考以下开源项目，感谢开发者的贡献：
 - **Chatts**: [GitHub链接](https://github.com/2noise/ChatTTS) - 聊天文本转语音应用，致力于提供个性化、自然的音色克隆与语音体验。
 
 ## 社区讨论
-![image]()
-
-我们鼓励用户参与社区讨论，分享使用经验和提出改进建议：
+欢迎各位大佬来找Mirra玩~：
 
 - [x] **Telegram 频道** - [NaiMeow_DIMENSION](https://t.me/NaiMeow_DIMENSION)：官方公告和技术交流。
 - [ ] **Discord 服务器** (筹备中...) - Discord Server (In Preparation...)
