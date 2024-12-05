@@ -2,7 +2,7 @@
     <img style="border-radius: 15px; width: 200px; height: auto;" src="https://github.com/user-attachments/assets/e9682099-02b7-467e-a1d3-aed311fb9132" alt="NaiMeow Logo"/>
 </p>
 
-# <p align = "center"> ✨NaiMeow  </p>
+# <p align = "center"> ✨NaiMeow✨ </p>
 
 ## <h2 align="center">基于人工智能技术的全场景Windows助理 / All-Scenario Intelligent AI Assistant</h2>
 ### <p align="center">主被动感知，多模态交互，计算机控制 / Active and Passive Perception, Multimodal Interaction, Computer Control</p>
@@ -34,14 +34,14 @@ NaiMeow 是一个高度集成的智能AI助理解决方案，旨在为用户提�
 
 NaiMeow将参考以下开源项目，感谢开发者的贡献：
 
-- **Open-Interpreter**: [GitHub链接](https://github.com/OpenInterpreter/open-interpreter) - 开源代码解释器，提供计算机控制能力
-- **ProactiveAgent**: [GitHub链接](https://github.com/thunlp/ProactiveAgent) - 主动型代理研究，实现主动智能
-- **Chatts**: [GitHub链接](https://github.com/2noise/ChatTTS) - 聊天文本转语音应用，致力于提供个性化、自然的音色克隆与语音体验。
+- [**Open-Interpreter**:](https://github.com/OpenInterpreter/open-interpreter) - 开源代码解释器，提供计算机控制能力
+- [**ProactiveAgent**](https://github.com/thunlp/ProactiveAgent) - 主动型代理研究，实现主动智能
+- [**Chatts**](https://github.com/2noise/ChatTTS) - 聊天文本转语音应用，致力于提供个性化、自然的音色克隆与语音体验。
 
 ## 社区讨论
 欢迎各位大佬来找Mirra玩~：
 
-- [x] **Telegram 频道** - [NaiMeow_DIMENSION](https://t.me/NaiMeow_DIMENSION)：官方公告和技术交流。
+- [x] [**Telegram 频道**](https://t.me/NaiMeow_DIMENSION)：官方公告和技术交流。
 - [ ] **Discord 服务器** (筹备中...) - Discord Server (In Preparation...)
 - [ ] **QQ 群组** （筹备中...） - QQ Group ( In preparation...)
 
