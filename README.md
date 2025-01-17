@@ -37,6 +37,7 @@ NaiMeow将参考以下开源项目，感谢开发者的贡献：
 - [**Open-Interpreter**:](https://github.com/OpenInterpreter/open-interpreter) - 开源代码解释器，提供计算机控制能力
 - [**ProactiveAgent**](https://github.com/thunlp/ProactiveAgent) - 主动型代理研究，实现主动智能
 - [**Chatts**](https://github.com/2noise/ChatTTS) - 聊天文本转语音应用，致力于提供个性化、自然的音色克隆与语音体验。
+- [**Qwen-OCR**]() - 基于大模型的高精度OCR服务
 
 ## 社区讨论
 欢迎各位大佬来找Mirra玩~：
